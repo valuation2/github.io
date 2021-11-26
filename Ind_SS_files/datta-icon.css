@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "pct";
-  src:url("./fonts/pct.eot");
-  src:url("./fonts/pct.eot?#iefix") format("embedded-opentype"),
-    url("./fonts/pct.woff") format("woff"),
-    url("./fonts/pct.ttf") format("truetype"),
-    url("./fonts/pct.svg#pct") format("svg");
+  src:url("Fonts/pct.eot");
+  src:url("Fonts/pct.eot?#iefix") format("embedded-opentype"),
+    url("Fonts/pct.woff") format("woff"),
+    url("Fonts/pct.ttf") format("truetype"),
+    url("Fonts/pct.svg#pct") format("svg");
   font-weight: normal;
   font-style: normal;
 
