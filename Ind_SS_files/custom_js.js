@@ -341,7 +341,7 @@ $(document).ready(function () {
         }],
         "graphs": [{
             "id": "g1",
-            "balloonText": "[[category]]<br><b><span style='font-size:14px;'>[[value]]</span></b>",
+            "balloonText": "[[category]]<br><b><span style='font-size:14px;'>x[[value]]</span></b>",
             "bullet": "round",
             "precision": 1,
             "bulletBorderAlpha": 2,
@@ -359,7 +359,7 @@ $(document).ready(function () {
         },
         {
             "id": "g2",
-            "balloonText": "[[category]]<br><b><span style='font-size:14px;'>[[value]]</span></b>",
+            "balloonText": "[[category]]<br><b><span style='font-size:14px;'>x[[value]]</span></b>",
             "bullet": "round",
             "precision": 1,
             "bulletBorderAlpha": 2,
